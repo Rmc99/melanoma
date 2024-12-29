@@ -2,4 +2,4 @@ Código de um modelo ensemble para detecção de melanoma usando CNN e RF usando
 
 Colocamos o cada código para executar 30 vezes e gerar um .csv com as métricas de saída.
 
-Após execução e coletas das métricas rodamos um metodo estatistico T pareado para verificar se os modelos possuem diferenças significativas.
+Após execução e coletas das métricas rodamos o teste estatistico kruskal walis para verificar se os modelos possuem diferenças significativas.
